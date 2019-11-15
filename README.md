@@ -9,7 +9,9 @@ To test some Hive capabilities, it’s good to have a good number of tables with
 `pip install -r requirements.txt`
 
 If you receive an error when installing the requirements, run:
+
 `sudo apt-get install python-dev libsasl2-dev gcc`
+
 `sudo apt-get install sasl2-bin libsasl2-2 libsasl2-dev libsasl2-modules`
 
 Then run the install requirements again
