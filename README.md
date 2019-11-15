@@ -8,7 +8,7 @@ To test some Hive capabilities, it’s good to have a good number of tables with
 ## Install the requirements for the metadata generator
 `pip install -r requirements.txt`
 
-If you receive an error when installing the requirements, run:
+If you receive an error when installing the requirements, run (linux distro):
 
 `sudo apt-get install python-dev libsasl2-dev gcc`
 
