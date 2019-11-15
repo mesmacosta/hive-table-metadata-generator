@@ -14,7 +14,7 @@ If you receive an error when installing the requirements, run:
 
 `sudo apt-get install sasl2-bin libsasl2-2 libsasl2-dev libsasl2-modules`
 
-Then run the install requirements again
+Then run the install requirements again.
 
 ## Run the script
 `python hive_metastore_metadata_generator.py`
