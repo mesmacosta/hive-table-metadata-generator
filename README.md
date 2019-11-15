@@ -1,7 +1,6 @@
 # hive-table-metadata-generator
 
-Generating metadata for the Hive metastore
-To test some Hive capabilities, it’s good to have a good number of tables with different complex column types inside the Hive metastore.
+To test some Hive capabilities, it’s good to have a good number of tables with different complex column types inside the Hive metastore. This script generates random metadata for the Hive metastore.
 
 # Activate your virtualenv if it’s not up
 source ./env/bin/activate
